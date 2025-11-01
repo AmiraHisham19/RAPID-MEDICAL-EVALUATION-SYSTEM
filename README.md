@@ -73,8 +73,20 @@ Patient Satisfaction:
 
 - Statistically significant improvement in RME group
 ## Visualizations
-Baseline Balance Check
-![Screenshot 2025-11-01 065538](images/Screenshot 2025-11-01 065538.png)
+### Baseline Balance Check
+![1](images/1.png)
+![2](images/2.png)
+![3](images/3.png)
+![4](images/4.png)
+![6](images/6.png)
+#### Groups are well-balanced across demographic and clinical characteristics
+### Primary Outcome: Length of Stay
+![5](images/5.png)
+![7](images/7.png)
+#### RME group shows significantly shorter length of stay
+### Secondary Outcomes
+![8](images/8.png)
+![9](images/9.png)
 ## Technical Stack
 . Languages & Libraries:
 
@@ -83,3 +95,7 @@ Baseline Balance Check
 - scipy.stats (statistical testing)
 - matplotlib, seaborn (visualization)
 - Jupyter Notebook (analysis environment)
+ ---
+
+**Author**: Amira Hisham – Pharmacist & Healthcare Data Analyst
+This project is part of my healthcare analytics portfolio. I’m passionate about bridging clinical insight with Machine learning to improve patient outcomes.
