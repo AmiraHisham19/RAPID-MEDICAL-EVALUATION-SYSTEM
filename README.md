@@ -1,4 +1,5 @@
 # Emergency Department A/B Testing: Rapid Medical Evaluation System
+![emergency-ambulance-resized](images/emergency-ambulance-resized.jpg)
 ## Project Overview
 This project evaluates the effectiveness of a Rapid Medical Evaluation (RME) system in reducing Emergency Department (ED) length of stay through a randomized A/B test analysis
 ## Key Finding
@@ -71,7 +72,9 @@ Time-to-Provider:
 Patient Satisfaction:
 
 - Statistically significant improvement in RME group
-
+## Visualizations
+Baseline Balance Check
+![Screenshot 2025-11-01 065538](images/Screenshot 2025-11-01 065538.png)
 ## Technical Stack
 . Languages & Libraries:
 
